@@ -4,7 +4,7 @@ Cineplex Movies est une plateforme web dédiée aux films, offrant aux utilisate
 # Le projet a été réalisé par:
 1. Fatima Zahra EL HOUSSNI.
 2. Basma SAIDI.
-3. Lamiae MAAOU.
+3. Lamya MAAOU.
 4. Ibtissame MESBAH.
 
 
