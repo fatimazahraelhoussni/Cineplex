@@ -1,5 +1,5 @@
 # Description
-Cineplex Movies est une plateforme web dédiée aux films, offrant aux utilisateurs une expérience cinématographique complète. Du cinéma grand public aux films indépendants, notre site propose une vaste sélection de films dans différents genres. Les utilisateurs peuvent accéder à des informations détaillées sur chaque film, notamment des bandes-annonces captivantes, des critiques, des synopsis, des détails sur le casting, et bien plus encore. Le site permet de réserver facilement et de manière conviviale des billets de cinéma, en permettant aux utilisateurs de choisir leurs sièges préférés dans nos cinémas modernes et confortables. Restez connecté à Cineplex Movies en vous abonnant à notre newsletter pour les dernières sorties, les événements spéciaux et les promotions exclusives. 
+Cineplex Movies est une plateforme web dédiée aux films, offrant aux utilisateurs une expérience cinématographique complète. Du cinéma grand public aux films indépendants, notre site propose une vaste sélection de films dans différents genres. Les utilisateurs peuvent accéder à des informations détaillées sur chaque film, notamment des bandes-annonces captivantes, des critiques, des synopsis, des détails sur le casting, et bien plus encore.
 
 # Le projet a été réalisé par:
 1. Fatima Zahra EL HOUSSNI.
@@ -9,11 +9,10 @@ Cineplex Movies est une plateforme web dédiée aux films, offrant aux utilisate
 
 
 # Fonctionnalités
-1. Informations détaillées sur les films : chaque film dispose d'une page dédiée fournissant des informations complètes, notamment le synopsis, les critiques, les bandes-annonces, les horaires de projection, la durée, etc.
+1. Informations détaillées sur les films : chaque film dispose d'une page dédiée fournissant des informations complètes, notamment le synopsis, les critiques, les bandes-annonces,la durée, etc.
 2. Profils utilisateur : les utilisateurs peuvent créer des profils personnalisés sur le site web Cineplex Movies.
-3. Offres spéciales et promotions : le site web Cineplex Movies propose des réductions spéciales pour les étudiants, les familles et les groupes, ainsi que des promotions pour des films ou des événements spécifiques.
 
-Ces fonctionnalités combinées offrent aux utilisateurs une expérience complète pour explorer, choisir et réserver des films, tout en restant informés des dernières actualités cinématographiques.
+Ces fonctionnalités combinées offrent aux utilisateurs une expérience complète pour explorer, choisir des films, tout en restant informés des dernières actualités cinématographiques.
 
 # Installation
 Pour exécuter localement le site web Cineplex Movies, suivez ces étapes :
