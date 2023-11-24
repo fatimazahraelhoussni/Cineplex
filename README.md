@@ -1,12 +1,6 @@
 # Description
 Cineplex Movies est une plateforme web dédiée aux films, offrant aux utilisateurs une expérience cinématographique complète. Du cinéma grand public aux films indépendants, notre site propose une vaste sélection de films dans différents genres. Les utilisateurs peuvent accéder à des informations détaillées sur chaque film, notamment des bandes-annonces captivantes, des critiques, des synopsis, des détails sur le casting, et bien plus encore.
 
-# Le projet a été réalisé par:
-1. Fatima Zahra EL HOUSSNI.
-2. Basma SAIDI.
-3. Lamya MAAOU.
-4. Ibtissame MESBAH.
-
 
 # Fonctionnalités
 1. Informations détaillées sur les films : chaque film dispose d'une page dédiée fournissant des informations complètes, notamment le synopsis, les critiques, les bandes-annonces,la durée, etc.
